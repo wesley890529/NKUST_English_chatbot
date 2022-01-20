@@ -53,5 +53,4 @@ Browsing:可以瀏覽所有已收錄句子，分類為Topics, Level
 ### Tatoeba
 ### Wordnet
 
-<br><br>
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
